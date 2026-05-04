@@ -3,3 +3,4 @@
   <h1 align="center">Banco Fortaleza Financiera</h1>
 </p>
 
+Para poder iniziliar el proyecto debe de irse al repo: https://github.com/Banco-Fortaleza-Financiera/bff-cfg-scripts
